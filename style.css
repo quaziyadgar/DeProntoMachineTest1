@@ -1,0 +1,21 @@
+header{
+    margin-top: 10px;
+}
+
+#blog{
+    border: 1px solid black;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    border: 1px solid pink;
+}
+.form input{
+    display: block;
+}
+.form{
+    margin-top: 30px;
+}
+input{
+    margin-bottom: 10px;
+}
